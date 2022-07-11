@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Estudante de desenvolvimento de software, formada em Gestão de TI. Já trabalhei como QA usando as ferramentas Postman, SoapUI, etc. Apesar da experiência como QA, meu foco sempre foi me tornar dev.<br><br>🌱 Atualmente estou aprofundando meus conhecimentos em: JavaScript, Node, Express</p>
+<p align="left">Estudante de desenvolvimento de software, formada em Gestão de TI. Apesar da experiência como QA, meu foco sempre foi me tornar dev.<br><br>🌱 Atualmente estou aprofundando meus conhecimentos em: JavaScript, Node, Express</p>
 
 ###
 
