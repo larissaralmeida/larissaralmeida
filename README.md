@@ -1,8 +1,8 @@
-<h1 align="left">Olá, meu nome é Larissa.</h1>
+<h1 align="center">Hello!!</h1>
 
 ###
 
-<p align="left">Estudante de desenvolvimento de software, formada em Gestão de TI. Apesar da experiência como QA, meu foco sempre foi me tornar dev.<br><br>🌱 Atualmente estou aprofundando meus conhecimentos em: JavaScript, Node, Express</p>
+<p align="center">Backend development student, graduated in IT Management. Experience as QA but focused on backend development.<br><br>🌱 I'm currently deepening my knowledge in: JavaScript, Node, Express, MongoDB</p>
 
 ###
 
@@ -18,6 +18,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
 </div>
 
 ###
