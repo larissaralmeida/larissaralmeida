@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Backend development student, graduated in IT Management. Experience as QA but focused on backend development.<br><br>🌱 I'm currently deepening my knowledge in: JavaScript, Node, Express, MongoDB</p>
+<p align="center">Backend developer, graduated in IT Management. Experience as QA but focused on backend development.<br><br>🌱 I'm currently deepening my knowledge in: JavaScript, Node, Express, MongoDB</p>
 
 ###
 
