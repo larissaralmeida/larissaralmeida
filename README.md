@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Software Quality Engineer, graduated in IT Management, with 1+ years of experience.<br><br>🌱 I'm currently deepening my knowledge in test automation with: Selenium Webdriver and Java</p>
+<p align="center">Software Quality Engineer, graduated in IT Management, with 1+ years of experience.<br><br>🌱 I'm currently deepening my skills in test automation with: Selenium Webdriver, JUnit and Java</p>
 
 ###
 
