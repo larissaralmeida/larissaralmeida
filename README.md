@@ -17,7 +17,7 @@
 ###
 
 <div align="center">
-  - IDE: Intellij, Eclipse<br>
+  - IDE: Intellij<br>
   - Automation test management tool: Junit<br>
   - Dependency Repository: Maven<br>
   - Test management tool: ALM, RQM<br>
