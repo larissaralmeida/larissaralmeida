@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Software Quality Engineer, with 1+ years of experience.<br><br>🌱 I'm currently deepening my skills in test automation with: Selenium Webdriver, JUnit, Java, Postman, Restassured.</p>
+<p align="center">Software Quality Engineer, with 1+ years of experience.<br><br>🌱 I am constantly dedicating myself to studying and becoming an increasingly better professional. </p>
 
 ###
 
@@ -12,15 +12,12 @@
 
 ###
 
-<p align="center">Some tools I'm familiar with:</p>
+<p align="center"></p>
 
 ###
 
 <div align="center">
-  - IDE: Intellij<br>
-  - Automation test management tool: Junit<br>
-  - Dependency Repository: Gradle<br>
-  - Test management tool: ALM, RQM<br>
+ 
 
 </div>
 
