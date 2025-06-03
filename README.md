@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Software Quality Engineer, with 2+ years of experience.<br><br>🌱 I am constantly dedicating myself to studying and becoming an increasingly better professional. </p>
+<p align="center">Software Quality Engineer, with 4+ years of experience.<br><br>🌱 I am constantly dedicating myself to studying and becoming an increasingly better professional. </p>
 
 ###
 
